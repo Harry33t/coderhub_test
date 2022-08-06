@@ -1,0 +1,13 @@
+# Created by https://www.toptal.com/developers/gitignore/api/vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=vuejs
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+#忽略nodemodules
+node_modules/
+#忽略.env
+.env
+uploads/
+
+# End of https://www.toptal.com/developers/gitignore/api/vuejs
